@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: ":))))",
-    introTitle: 'Lei',
+    introTitle: 'Rất chào',
     introDesc: `Bây h m mà thoát ra là phải làm ny t đây này`,
     btnIntro: '^^HiHi^^',
-    title: 'Yêu mình ko Lei :)))',
+    title: 'Yêu mình ko cậu :)))',
     desc: 'Nhắc lại là thoát ra là mình biết và bạn phải làm ny mình ',
     btnYes: 'có chứ',
     btnNo: 'Xàm:3',
