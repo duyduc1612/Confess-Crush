@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Nhắc lại là thoát ra là anh biết và em phải làm ny anh ',
     btnYes: ' có ạ',
     btnNo: 'không anh ơi',
-    question: '',
+    question: 'có muốn trăn trối gì hong ?? ',
     btnReply: 'Send <3',
     reply: 'Yêu Đức 3000',
     mess: 'anh biết mà 🥰😘😘, yêu em',
